@@ -1,4 +1,4 @@
-# Corpus creation: OA repository retreival and analysis
+# Corpus creation: OA repository retrieval and analysis
 
 DOI Zenodo badge: \<[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)\>
 
